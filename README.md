@@ -2,7 +2,7 @@
 
 > An explainer video built with 3blue1brown's [manim](https://github.com/3b1b/manim)
 
-![Watch The Video](https://i.imgur.com/RthFlPS.png)
+[![Watch The Video](https://i.imgur.com/RthFlPS.png)](https://www.youtube.com/watch?v=RlmCpQMUQkw)
 
 This is the source code for the animation that Sam Enright and I made for the [ReelLIFE Science](https://reellifescience.com) competition.
 It uses the software developed by [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw).
